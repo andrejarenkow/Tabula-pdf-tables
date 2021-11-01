@@ -1,4 +1,4 @@
-#Leitura das tabelas do arquivo
+# Leitura das tabelas do arquivo
 Analisando o arquivo pdf, as tabelas que nos interessam estão apenas nas páginas 1, 2, 3 e 4. Sendo assim, colocaremos este parâmetro na função *read_pdf*.
 
 Também faremos uso do parâmetro *lattice*, que refere-se a buscar tabelas que tenham linhas separadoras.
